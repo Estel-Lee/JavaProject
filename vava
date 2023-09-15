@@ -1,3 +1,5 @@
 int = abs;
 int = eft;
 int = abs + eft;
+
+in = yedam
